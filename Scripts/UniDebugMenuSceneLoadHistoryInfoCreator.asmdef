@@ -1,0 +1,16 @@
+{
+    "name": "UniDebugMenuSceneLoadHistoryInfoCreator",
+    "references": [
+        "GUID:c3d30b29344d736429b39f3ede8b8bd7",
+        "GUID:1e5ff63f99c502d4282235a1c96afbe1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
